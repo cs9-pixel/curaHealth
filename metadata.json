@@ -1,0 +1,6 @@
+{
+  "name": "CuraHealth",
+  "description": "Smart clinical healthcare portal and AI consultation copilot with digital prescriptions and appointment booking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
